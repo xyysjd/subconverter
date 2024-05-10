@@ -1,5 +1,5 @@
-port: 7890
-socks-port: 7891
+port: 7878
+socks-port: 7879
 allow-lan: true
 mode: Rule
 log-level: info
